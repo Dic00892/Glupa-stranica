@@ -19,7 +19,7 @@ var uvrede2=[
   "Tvoj IQ je u minusu",
   "Gluplju osobu nisam vidio",
   "Jel znas sta je uopce tipka?",
-  "Katastrofa"
+  "Katastrofa",
   "O boze kakvih sve ljudi ima na ovom svijetu."
   ];
 
