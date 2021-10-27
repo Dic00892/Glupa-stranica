@@ -4,6 +4,7 @@
 #startImg{
   position: absolute;
   object-position: 50% 50%;
+  transform: translate(-50%);
 }
 
 #cbutton{
